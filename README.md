@@ -1,5 +1,4 @@
 SnapBack News
-
 ===========
 
 Description: A running feed of news pertaining to technology, common PC problems, and the latest updates from SnapBack.
